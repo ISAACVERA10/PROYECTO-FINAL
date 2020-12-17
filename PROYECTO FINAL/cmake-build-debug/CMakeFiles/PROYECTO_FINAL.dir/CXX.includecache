@@ -1,0 +1,82 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/UTEC/PROYECTO FINAL/Clinica.cpp
+Clinica.h
+D:/UTEC/PROYECTO FINAL/Clinica.h
+
+D:/UTEC/PROYECTO FINAL/Clinica.h
+iostream
+-
+SalaOperaciones.h
+D:/UTEC/PROYECTO FINAL/SalaOperaciones.h
+Consultorio.h
+D:/UTEC/PROYECTO FINAL/Consultorio.h
+Doctores.h
+D:/UTEC/PROYECTO FINAL/Doctores.h
+Enfermeros.h
+D:/UTEC/PROYECTO FINAL/Enfermeros.h
+Pacientes.h
+D:/UTEC/PROYECTO FINAL/Pacientes.h
+tipos.h
+D:/UTEC/PROYECTO FINAL/tipos.h
+
+D:/UTEC/PROYECTO FINAL/Consultorio.h
+Cuartos.h
+D:/UTEC/PROYECTO FINAL/Cuartos.h
+
+D:/UTEC/PROYECTO FINAL/Cuartos.h
+tipos.h
+D:/UTEC/PROYECTO FINAL/tipos.h
+
+D:/UTEC/PROYECTO FINAL/Doctores.h
+Personas.h
+D:/UTEC/PROYECTO FINAL/Personas.h
+
+D:/UTEC/PROYECTO FINAL/Enfermeros.cpp
+Enfermeros.h
+D:/UTEC/PROYECTO FINAL/Enfermeros.h
+
+D:/UTEC/PROYECTO FINAL/Enfermeros.h
+Personas.h
+D:/UTEC/PROYECTO FINAL/Personas.h
+
+D:/UTEC/PROYECTO FINAL/Pacientes.h
+Personas.h
+D:/UTEC/PROYECTO FINAL/Personas.h
+
+D:/UTEC/PROYECTO FINAL/Personas.h
+iostream
+-
+tipos.h
+D:/UTEC/PROYECTO FINAL/tipos.h
+fstream
+-
+
+D:/UTEC/PROYECTO FINAL/SalaOperaciones.h
+Cuartos.h
+D:/UTEC/PROYECTO FINAL/Cuartos.h
+
+D:/UTEC/PROYECTO FINAL/main.cpp
+iostream
+-
+fstream
+-
+Clinica.h
+D:/UTEC/PROYECTO FINAL/Clinica.h
+
+D:/UTEC/PROYECTO FINAL/tipos.h
+iostream
+-
+vector
+-
+random
+-
+ctime
+-
+

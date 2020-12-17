@@ -1,0 +1,14 @@
+----------------------------
+Nombre del Paciente: isaac
+Edad: 19
+Fecha de nacimiento: 10/12/2000
+Enfermedad: No tiene
+Fecha de la cita: 17/12/2020
+Doctor encargado: juan
+----------------------------
+Nombre del Paciente: Alfredo
+Edad: 22
+Fecha de nacimiento: 2524545
+Enfermedad: No tiene
+Fecha de la cita: 10/12/20001
+Doctor encargado: kiko

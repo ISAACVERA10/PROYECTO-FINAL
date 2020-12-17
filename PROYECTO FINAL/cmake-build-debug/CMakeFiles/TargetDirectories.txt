@@ -1,0 +1,3 @@
+D:/UTEC/PROYECTO FINAL/cmake-build-debug/CMakeFiles/PROYECTO_FINAL.dir
+D:/UTEC/PROYECTO FINAL/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/UTEC/PROYECTO FINAL/cmake-build-debug/CMakeFiles/rebuild_cache.dir

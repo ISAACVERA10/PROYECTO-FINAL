@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="PROYECTO_FINAL"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/UTEC/PROYECTO FINAL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MINGW/bin/mingw32-make.exe -f &quot;D:/UTEC/PROYECTO FINAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/MINGW/bin/mingw32-make.exe -f &quot;D:/UTEC/PROYECTO FINAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MINGW/bin/mingw32-make.exe -f &quot;D:/UTEC/PROYECTO FINAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MINGW/bin/mingw32-make.exe -f &quot;D:/UTEC/PROYECTO FINAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PROYECTO_FINAL">
+				<Option output="D:/UTEC/PROYECTO FINAL/cmake-build-debug/PROYECTO_FINAL.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UTEC/PROYECTO FINAL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/MINGW/include"/>
+					<Add directory="d:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="d:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="d:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="d:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="d:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="d:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/MINGW/bin/mingw32-make.exe -f &quot;D:/UTEC/PROYECTO FINAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 PROYECTO_FINAL"/>
+					<CompileFile command="D:/MINGW/bin/mingw32-make.exe -f &quot;D:/UTEC/PROYECTO FINAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MINGW/bin/mingw32-make.exe -f &quot;D:/UTEC/PROYECTO FINAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MINGW/bin/mingw32-make.exe -f &quot;D:/UTEC/PROYECTO FINAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PROYECTO_FINAL/fast">
+				<Option output="D:/UTEC/PROYECTO FINAL/cmake-build-debug/PROYECTO_FINAL.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UTEC/PROYECTO FINAL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/MINGW/include"/>
+					<Add directory="d:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="d:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="d:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="d:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="d:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="d:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/MINGW/bin/mingw32-make.exe -f &quot;D:/UTEC/PROYECTO FINAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 PROYECTO_FINAL/fast"/>
+					<CompileFile command="D:/MINGW/bin/mingw32-make.exe -f &quot;D:/UTEC/PROYECTO FINAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MINGW/bin/mingw32-make.exe -f &quot;D:/UTEC/PROYECTO FINAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MINGW/bin/mingw32-make.exe -f &quot;D:/UTEC/PROYECTO FINAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/UTEC/PROYECTO FINAL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MINGW/bin/mingw32-make.exe -f &quot;D:/UTEC/PROYECTO FINAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/MINGW/bin/mingw32-make.exe -f &quot;D:/UTEC/PROYECTO FINAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MINGW/bin/mingw32-make.exe -f &quot;D:/UTEC/PROYECTO FINAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MINGW/bin/mingw32-make.exe -f &quot;D:/UTEC/PROYECTO FINAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/UTEC/PROYECTO FINAL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MINGW/bin/mingw32-make.exe -f &quot;D:/UTEC/PROYECTO FINAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/MINGW/bin/mingw32-make.exe -f &quot;D:/UTEC/PROYECTO FINAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MINGW/bin/mingw32-make.exe -f &quot;D:/UTEC/PROYECTO FINAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MINGW/bin/mingw32-make.exe -f &quot;D:/UTEC/PROYECTO FINAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/UTEC/PROYECTO FINAL/Clinica.cpp">
+			<Option target="PROYECTO_FINAL"/>
+		</Unit>
+		<Unit filename="D:/UTEC/PROYECTO FINAL/Clinica.h">
+			<Option target="PROYECTO_FINAL"/>
+		</Unit>
+		<Unit filename="D:/UTEC/PROYECTO FINAL/Consultorio.cpp">
+			<Option target="PROYECTO_FINAL"/>
+		</Unit>
+		<Unit filename="D:/UTEC/PROYECTO FINAL/Consultorio.h">
+			<Option target="PROYECTO_FINAL"/>
+		</Unit>
+		<Unit filename="D:/UTEC/PROYECTO FINAL/Cuartos.cpp">
+			<Option target="PROYECTO_FINAL"/>
+		</Unit>
+		<Unit filename="D:/UTEC/PROYECTO FINAL/Cuartos.h">
+			<Option target="PROYECTO_FINAL"/>
+		</Unit>
+		<Unit filename="D:/UTEC/PROYECTO FINAL/Doctores.cpp">
+			<Option target="PROYECTO_FINAL"/>
+		</Unit>
+		<Unit filename="D:/UTEC/PROYECTO FINAL/Doctores.h">
+			<Option target="PROYECTO_FINAL"/>
+		</Unit>
+		<Unit filename="D:/UTEC/PROYECTO FINAL/Enfermeros.cpp">
+			<Option target="PROYECTO_FINAL"/>
+		</Unit>
+		<Unit filename="D:/UTEC/PROYECTO FINAL/Enfermeros.h">
+			<Option target="PROYECTO_FINAL"/>
+		</Unit>
+		<Unit filename="D:/UTEC/PROYECTO FINAL/Pacientes.cpp">
+			<Option target="PROYECTO_FINAL"/>
+		</Unit>
+		<Unit filename="D:/UTEC/PROYECTO FINAL/Pacientes.h">
+			<Option target="PROYECTO_FINAL"/>
+		</Unit>
+		<Unit filename="D:/UTEC/PROYECTO FINAL/Personas.cpp">
+			<Option target="PROYECTO_FINAL"/>
+		</Unit>
+		<Unit filename="D:/UTEC/PROYECTO FINAL/Personas.h">
+			<Option target="PROYECTO_FINAL"/>
+		</Unit>
+		<Unit filename="D:/UTEC/PROYECTO FINAL/SalaOperaciones.cpp">
+			<Option target="PROYECTO_FINAL"/>
+		</Unit>
+		<Unit filename="D:/UTEC/PROYECTO FINAL/SalaOperaciones.h">
+			<Option target="PROYECTO_FINAL"/>
+		</Unit>
+		<Unit filename="D:/UTEC/PROYECTO FINAL/main.cpp">
+			<Option target="PROYECTO_FINAL"/>
+		</Unit>
+		<Unit filename="D:/UTEC/PROYECTO FINAL/tipos.h">
+			<Option target="PROYECTO_FINAL"/>
+		</Unit>
+		<Unit filename="D:/UTEC/PROYECTO FINAL/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
